@@ -19,9 +19,15 @@ The **QR Code Generator** is a simple and elegant web-based tool that allows use
 - **HTML** 📄: Structuring the page.  
 - **CSS** 🎨: Styling and animations.  
 - **JavaScript** ⚡: Handling interactions and generating QR codes using an API.  
-
 ## 📷 Preview  
-[Add a screenshot or GIF of the QR Code Generator]  
+
+<img src="https://raw.githubusercontent.com/rajnandiniini/QR-generator/main/images/p1.png" width="300" height="auto">
+<img src="https://raw.githubusercontent.com/rajnandiniini/QR-generator/main/images/p2.png" width="300" height="auto">
+
+
+
+
+
 
 ## ⚙️ Setup  
-Try it here: [QR Code Generator](#)  
+Try it here: **[QR Code Generator](https://rajnandiniini.github.io/QR-generator/index.html)**
